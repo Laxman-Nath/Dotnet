@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShortNote2080/1.0.0": {
+        "runtime": {
+          "ShortNote2080.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShortNote2080/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

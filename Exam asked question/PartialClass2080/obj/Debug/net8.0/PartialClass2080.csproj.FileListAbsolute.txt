@@ -1,0 +1,14 @@
+D:\Csharp\Exam asked question\PartialClass2080\bin\Debug\net8.0\PartialClass2080.exe
+D:\Csharp\Exam asked question\PartialClass2080\bin\Debug\net8.0\PartialClass2080.deps.json
+D:\Csharp\Exam asked question\PartialClass2080\bin\Debug\net8.0\PartialClass2080.runtimeconfig.json
+D:\Csharp\Exam asked question\PartialClass2080\bin\Debug\net8.0\PartialClass2080.dll
+D:\Csharp\Exam asked question\PartialClass2080\bin\Debug\net8.0\PartialClass2080.pdb
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.AssemblyInfoInputs.cache
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.AssemblyInfo.cs
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.csproj.CoreCompileInputs.cache
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.dll
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\refint\PartialClass2080.dll
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.pdb
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\PartialClass2080.genruntimeconfig.cache
+D:\Csharp\Exam asked question\PartialClass2080\obj\Debug\net8.0\ref\PartialClass2080.dll

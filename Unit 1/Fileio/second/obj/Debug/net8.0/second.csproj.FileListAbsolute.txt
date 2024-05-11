@@ -1,0 +1,14 @@
+D:\Csharp\Fileio\second\bin\Debug\net8.0\second.exe
+D:\Csharp\Fileio\second\bin\Debug\net8.0\second.deps.json
+D:\Csharp\Fileio\second\bin\Debug\net8.0\second.runtimeconfig.json
+D:\Csharp\Fileio\second\bin\Debug\net8.0\second.dll
+D:\Csharp\Fileio\second\bin\Debug\net8.0\second.pdb
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.AssemblyInfoInputs.cache
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.AssemblyInfo.cs
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.csproj.CoreCompileInputs.cache
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.dll
+D:\Csharp\Fileio\second\obj\Debug\net8.0\refint\second.dll
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.pdb
+D:\Csharp\Fileio\second\obj\Debug\net8.0\second.genruntimeconfig.cache
+D:\Csharp\Fileio\second\obj\Debug\net8.0\ref\second.dll

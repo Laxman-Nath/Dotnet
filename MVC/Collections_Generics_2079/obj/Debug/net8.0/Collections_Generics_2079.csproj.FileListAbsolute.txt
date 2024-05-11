@@ -1,0 +1,14 @@
+D:\Csharp\MVC\Collections_Generics_2079\bin\Debug\net8.0\Collections_Generics_2079.exe
+D:\Csharp\MVC\Collections_Generics_2079\bin\Debug\net8.0\Collections_Generics_2079.deps.json
+D:\Csharp\MVC\Collections_Generics_2079\bin\Debug\net8.0\Collections_Generics_2079.runtimeconfig.json
+D:\Csharp\MVC\Collections_Generics_2079\bin\Debug\net8.0\Collections_Generics_2079.dll
+D:\Csharp\MVC\Collections_Generics_2079\bin\Debug\net8.0\Collections_Generics_2079.pdb
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.AssemblyInfoInputs.cache
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.AssemblyInfo.cs
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.csproj.CoreCompileInputs.cache
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.dll
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\refint\Collections_Generics_2079.dll
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.pdb
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\Collections_Generics_2079.genruntimeconfig.cache
+D:\Csharp\MVC\Collections_Generics_2079\obj\Debug\net8.0\ref\Collections_Generics_2079.dll

@@ -1,0 +1,14 @@
+D:\Csharp\Inheritance\fourth\bin\Debug\net8.0\fourth.exe
+D:\Csharp\Inheritance\fourth\bin\Debug\net8.0\fourth.deps.json
+D:\Csharp\Inheritance\fourth\bin\Debug\net8.0\fourth.runtimeconfig.json
+D:\Csharp\Inheritance\fourth\bin\Debug\net8.0\fourth.dll
+D:\Csharp\Inheritance\fourth\bin\Debug\net8.0\fourth.pdb
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.AssemblyInfoInputs.cache
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.AssemblyInfo.cs
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.csproj.CoreCompileInputs.cache
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.dll
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\refint\fourth.dll
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.pdb
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\fourth.genruntimeconfig.cache
+D:\Csharp\Inheritance\fourth\obj\Debug\net8.0\ref\fourth.dll

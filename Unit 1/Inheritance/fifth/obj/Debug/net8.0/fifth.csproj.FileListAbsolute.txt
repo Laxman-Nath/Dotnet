@@ -1,0 +1,14 @@
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.AssemblyInfoInputs.cache
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.AssemblyInfo.cs
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.csproj.CoreCompileInputs.cache
+D:\Csharp\Inheritance\fifth\bin\Debug\net8.0\fifth.exe
+D:\Csharp\Inheritance\fifth\bin\Debug\net8.0\fifth.deps.json
+D:\Csharp\Inheritance\fifth\bin\Debug\net8.0\fifth.runtimeconfig.json
+D:\Csharp\Inheritance\fifth\bin\Debug\net8.0\fifth.dll
+D:\Csharp\Inheritance\fifth\bin\Debug\net8.0\fifth.pdb
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.dll
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\refint\fifth.dll
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.pdb
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\fifth.genruntimeconfig.cache
+D:\Csharp\Inheritance\fifth\obj\Debug\net8.0\ref\fifth.dll

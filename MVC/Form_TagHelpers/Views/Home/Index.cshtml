@@ -1,0 +1,28 @@
+﻿@model Form_TagHelpers.Models.Employee;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container"> 
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-action="Index" asp-controller="Home" method="POST" class="text-center">
+                <input asp-for="Name" placeholder="Enter your name" class="form-control"/>
+                <br/>
+               <label asp-for = "Age"></label> <input asp-for="Age" placeholder="Enter your age" class="form-control"/>
+                <br/>
+                <input asp-for="Designation" placeholder="Enter your designation" class="form-control" />
+                <br/>
+                <input asp-for="Address" placeholder="Enter your addresss" class="form-control" />
+                <br/>
+                <input type="submit" value="Submit" class="btn btn-outline-primary ">
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.AssemblyInfoInputs.cache
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.AssemblyInfo.cs
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.csproj.CoreCompileInputs.cache
+D:\Csharp\Arithmetic_Oper\bin\Debug\net8.0\Arithmetic_Oper.exe
+D:\Csharp\Arithmetic_Oper\bin\Debug\net8.0\Arithmetic_Oper.deps.json
+D:\Csharp\Arithmetic_Oper\bin\Debug\net8.0\Arithmetic_Oper.runtimeconfig.json
+D:\Csharp\Arithmetic_Oper\bin\Debug\net8.0\Arithmetic_Oper.dll
+D:\Csharp\Arithmetic_Oper\bin\Debug\net8.0\Arithmetic_Oper.pdb
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.dll
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\refint\Arithmetic_Oper.dll
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.pdb
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\Arithmetic_Oper.genruntimeconfig.cache
+D:\Csharp\Arithmetic_Oper\obj\Debug\net8.0\ref\Arithmetic_Oper.dll

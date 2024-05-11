@@ -1,0 +1,14 @@
+D:\Csharp\OOPS\staticconstructor\bin\Debug\net8.0\staticconstructor.exe
+D:\Csharp\OOPS\staticconstructor\bin\Debug\net8.0\staticconstructor.deps.json
+D:\Csharp\OOPS\staticconstructor\bin\Debug\net8.0\staticconstructor.runtimeconfig.json
+D:\Csharp\OOPS\staticconstructor\bin\Debug\net8.0\staticconstructor.dll
+D:\Csharp\OOPS\staticconstructor\bin\Debug\net8.0\staticconstructor.pdb
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.AssemblyInfoInputs.cache
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.AssemblyInfo.cs
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.csproj.CoreCompileInputs.cache
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.dll
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\refint\staticconstructor.dll
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.pdb
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\staticconstructor.genruntimeconfig.cache
+D:\Csharp\OOPS\staticconstructor\obj\Debug\net8.0\ref\staticconstructor.dll

@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <img src="~/Images/First.jpg" height="200px" width="200px" alt="Error" /> *@
+
+<img src="~/Images/First1.jpg" asp-append-version="true" height="200px" width="200px" alt="error" />
+
+@* In general, when you visit a web page and if that web page contains some image,then most of the modern web browser\
+cache the images for later use.In the future when you revisit the web page,then the browser loads the images from
+cache instead of downloading the image from the server *@

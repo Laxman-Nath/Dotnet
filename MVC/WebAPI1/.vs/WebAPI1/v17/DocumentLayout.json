@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp\\MVC\\WebAPI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|d:\\csharp\\mvc\\webapi1\\controllers\\employeedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|solutionrelative:controllers\\employeedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|d:\\csharp\\mvc\\webapi1\\scripts\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|solutionrelative:scripts\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|D:\\Csharp\\MVC\\WebAPI1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|D:\\Csharp\\MVC\\WebAPI1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|D:\\Csharp\\MVC\\WebAPI1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5931453A-2912-45CA-B0F9-076B250FB267}|WebAPI1.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jQuery.js",
+              "DocumentMoniker": "D:\\Csharp\\MVC\\WebAPI1\\scripts\\jQuery.js",
+              "RelativeDocumentMoniker": "scripts\\jQuery.js",
+              "ToolTip": "D:\\Csharp\\MVC\\WebAPI1\\scripts\\jQuery.js",
+              "RelativeToolTip": "scripts\\jQuery.js",
+              "ViewState": "AQIAAH4pAAAAAAAAAAAIwIYpAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-28T10:10:09.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDataController.cs",
+              "DocumentMoniker": "D:\\Csharp\\MVC\\WebAPI1\\Controllers\\EmployeeDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeDataController.cs",
+              "ToolTip": "D:\\Csharp\\MVC\\WebAPI1\\Controllers\\EmployeeDataController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeDataController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:43:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Csharp\\MVC\\WebAPI1\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Csharp\\MVC\\WebAPI1\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:32:29.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Csharp\\MVC\\WebAPI1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Csharp\\MVC\\WebAPI1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:31:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Csharp\\MVC\\WebAPI1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\Csharp\\MVC\\WebAPI1\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:23:28.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

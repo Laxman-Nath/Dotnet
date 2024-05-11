@@ -1,0 +1,28 @@
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.AssemblyInfoInputs.cache
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.AssemblyInfo.cs
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.csproj.CoreCompileInputs.cache
+D:\Csharp\Inheritance\second\bin\Debug\net8.0\second.exe
+D:\Csharp\Inheritance\second\bin\Debug\net8.0\second.deps.json
+D:\Csharp\Inheritance\second\bin\Debug\net8.0\second.runtimeconfig.json
+D:\Csharp\Inheritance\second\bin\Debug\net8.0\second.dll
+D:\Csharp\Inheritance\second\bin\Debug\net8.0\second.pdb
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.dll
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\refint\second.dll
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.pdb
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\second.genruntimeconfig.cache
+D:\Csharp\Inheritance\second\obj\Debug\net8.0\ref\second.dll
+D:\Csharp\Unit 1\Inheritance\second\bin\Debug\net8.0\second.exe
+D:\Csharp\Unit 1\Inheritance\second\bin\Debug\net8.0\second.deps.json
+D:\Csharp\Unit 1\Inheritance\second\bin\Debug\net8.0\second.runtimeconfig.json
+D:\Csharp\Unit 1\Inheritance\second\bin\Debug\net8.0\second.dll
+D:\Csharp\Unit 1\Inheritance\second\bin\Debug\net8.0\second.pdb
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.AssemblyInfoInputs.cache
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.AssemblyInfo.cs
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.csproj.CoreCompileInputs.cache
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.dll
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\refint\second.dll
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.pdb
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\second.genruntimeconfig.cache
+D:\Csharp\Unit 1\Inheritance\second\obj\Debug\net8.0\ref\second.dll

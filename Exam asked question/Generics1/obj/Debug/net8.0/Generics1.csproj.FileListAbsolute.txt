@@ -1,0 +1,14 @@
+D:\Csharp\Exam asked question\Generics1\bin\Debug\net8.0\Generics1.exe
+D:\Csharp\Exam asked question\Generics1\bin\Debug\net8.0\Generics1.deps.json
+D:\Csharp\Exam asked question\Generics1\bin\Debug\net8.0\Generics1.runtimeconfig.json
+D:\Csharp\Exam asked question\Generics1\bin\Debug\net8.0\Generics1.dll
+D:\Csharp\Exam asked question\Generics1\bin\Debug\net8.0\Generics1.pdb
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.AssemblyInfoInputs.cache
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.AssemblyInfo.cs
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.csproj.CoreCompileInputs.cache
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.dll
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\refint\Generics1.dll
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.pdb
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\Generics1.genruntimeconfig.cache
+D:\Csharp\Exam asked question\Generics1\obj\Debug\net8.0\ref\Generics1.dll

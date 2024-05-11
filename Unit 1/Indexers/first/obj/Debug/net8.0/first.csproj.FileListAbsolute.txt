@@ -1,0 +1,14 @@
+D:\Csharp\Indexers\first\bin\Debug\net8.0\first.exe
+D:\Csharp\Indexers\first\bin\Debug\net8.0\first.deps.json
+D:\Csharp\Indexers\first\bin\Debug\net8.0\first.runtimeconfig.json
+D:\Csharp\Indexers\first\bin\Debug\net8.0\first.dll
+D:\Csharp\Indexers\first\bin\Debug\net8.0\first.pdb
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.AssemblyInfoInputs.cache
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.AssemblyInfo.cs
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.csproj.CoreCompileInputs.cache
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.dll
+D:\Csharp\Indexers\first\obj\Debug\net8.0\refint\first.dll
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.pdb
+D:\Csharp\Indexers\first\obj\Debug\net8.0\first.genruntimeconfig.cache
+D:\Csharp\Indexers\first\obj\Debug\net8.0\ref\first.dll

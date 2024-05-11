@@ -1,0 +1,14 @@
+D:\Csharp\OOPS\sum\bin\Debug\net8.0\sum.exe
+D:\Csharp\OOPS\sum\bin\Debug\net8.0\sum.deps.json
+D:\Csharp\OOPS\sum\bin\Debug\net8.0\sum.runtimeconfig.json
+D:\Csharp\OOPS\sum\bin\Debug\net8.0\sum.dll
+D:\Csharp\OOPS\sum\bin\Debug\net8.0\sum.pdb
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.AssemblyInfoInputs.cache
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.AssemblyInfo.cs
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.csproj.CoreCompileInputs.cache
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.dll
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\refint\sum.dll
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.pdb
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\sum.genruntimeconfig.cache
+D:\Csharp\OOPS\sum\obj\Debug\net8.0\ref\sum.dll

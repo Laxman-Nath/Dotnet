@@ -1,0 +1,14 @@
+D:\Csharp\Loops\doWhile\bin\Debug\net8.0\doWhile.exe
+D:\Csharp\Loops\doWhile\bin\Debug\net8.0\doWhile.deps.json
+D:\Csharp\Loops\doWhile\bin\Debug\net8.0\doWhile.runtimeconfig.json
+D:\Csharp\Loops\doWhile\bin\Debug\net8.0\doWhile.dll
+D:\Csharp\Loops\doWhile\bin\Debug\net8.0\doWhile.pdb
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfoInputs.cache
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfo.cs
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.csproj.CoreCompileInputs.cache
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.dll
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\refint\doWhile.dll
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.pdb
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\doWhile.genruntimeconfig.cache
+D:\Csharp\Loops\doWhile\obj\Debug\net8.0\ref\doWhile.dll

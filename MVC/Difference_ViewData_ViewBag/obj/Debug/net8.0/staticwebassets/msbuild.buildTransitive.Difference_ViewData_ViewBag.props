@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Difference_ViewData_ViewBag.props" />
+</Project>

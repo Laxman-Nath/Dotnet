@@ -1,0 +1,14 @@
+D:\Csharp\MVC\2078_Exception\bin\Debug\net8.0\2078_Exception.exe
+D:\Csharp\MVC\2078_Exception\bin\Debug\net8.0\2078_Exception.deps.json
+D:\Csharp\MVC\2078_Exception\bin\Debug\net8.0\2078_Exception.runtimeconfig.json
+D:\Csharp\MVC\2078_Exception\bin\Debug\net8.0\2078_Exception.dll
+D:\Csharp\MVC\2078_Exception\bin\Debug\net8.0\2078_Exception.pdb
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.AssemblyInfoInputs.cache
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.AssemblyInfo.cs
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.csproj.CoreCompileInputs.cache
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.dll
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\refint\2078_Exception.dll
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.pdb
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\2078_Exception.genruntimeconfig.cache
+D:\Csharp\MVC\2078_Exception\obj\Debug\net8.0\ref\2078_Exception.dll

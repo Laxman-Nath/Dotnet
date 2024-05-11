@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Action_Result_Types.props" />
+</Project>

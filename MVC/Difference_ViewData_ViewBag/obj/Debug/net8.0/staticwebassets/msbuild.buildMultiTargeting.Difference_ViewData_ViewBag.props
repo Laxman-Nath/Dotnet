@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Difference_ViewData_ViewBag.props" />
+</Project>

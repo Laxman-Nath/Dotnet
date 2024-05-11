@@ -1,0 +1,14 @@
+D:\Csharp\Loops\whileLoop\bin\Debug\net8.0\whileLoop.exe
+D:\Csharp\Loops\whileLoop\bin\Debug\net8.0\whileLoop.deps.json
+D:\Csharp\Loops\whileLoop\bin\Debug\net8.0\whileLoop.runtimeconfig.json
+D:\Csharp\Loops\whileLoop\bin\Debug\net8.0\whileLoop.dll
+D:\Csharp\Loops\whileLoop\bin\Debug\net8.0\whileLoop.pdb
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.AssemblyInfoInputs.cache
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.AssemblyInfo.cs
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.csproj.CoreCompileInputs.cache
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.dll
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\refint\whileLoop.dll
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.pdb
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\whileLoop.genruntimeconfig.cache
+D:\Csharp\Loops\whileLoop\obj\Debug\net8.0\ref\whileLoop.dll

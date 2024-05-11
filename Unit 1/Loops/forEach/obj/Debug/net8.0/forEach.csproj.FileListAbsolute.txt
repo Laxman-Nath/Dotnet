@@ -1,0 +1,14 @@
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.AssemblyInfoInputs.cache
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.AssemblyInfo.cs
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.csproj.CoreCompileInputs.cache
+D:\Csharp\Loops\forEach\bin\Debug\net8.0\forEach.exe
+D:\Csharp\Loops\forEach\bin\Debug\net8.0\forEach.deps.json
+D:\Csharp\Loops\forEach\bin\Debug\net8.0\forEach.runtimeconfig.json
+D:\Csharp\Loops\forEach\bin\Debug\net8.0\forEach.dll
+D:\Csharp\Loops\forEach\bin\Debug\net8.0\forEach.pdb
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.dll
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\refint\forEach.dll
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.pdb
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\forEach.genruntimeconfig.cache
+D:\Csharp\Loops\forEach\obj\Debug\net8.0\ref\forEach.dll

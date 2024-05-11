@@ -1,0 +1,14 @@
+D:\Csharp\Exam asked question\ShortNote2080\bin\Debug\net8.0\ShortNote2080.exe
+D:\Csharp\Exam asked question\ShortNote2080\bin\Debug\net8.0\ShortNote2080.deps.json
+D:\Csharp\Exam asked question\ShortNote2080\bin\Debug\net8.0\ShortNote2080.runtimeconfig.json
+D:\Csharp\Exam asked question\ShortNote2080\bin\Debug\net8.0\ShortNote2080.dll
+D:\Csharp\Exam asked question\ShortNote2080\bin\Debug\net8.0\ShortNote2080.pdb
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.AssemblyInfoInputs.cache
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.AssemblyInfo.cs
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.csproj.CoreCompileInputs.cache
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.dll
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\refint\ShortNote2080.dll
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.pdb
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ShortNote2080.genruntimeconfig.cache
+D:\Csharp\Exam asked question\ShortNote2080\obj\Debug\net8.0\ref\ShortNote2080.dll

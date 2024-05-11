@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Benefits_Of_TagHelper.props" />
+</Project>

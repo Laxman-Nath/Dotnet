@@ -1,0 +1,14 @@
+D:\Csharp\Second_Program\bin\Debug\net8.0\Second_Program.exe
+D:\Csharp\Second_Program\bin\Debug\net8.0\Second_Program.deps.json
+D:\Csharp\Second_Program\bin\Debug\net8.0\Second_Program.runtimeconfig.json
+D:\Csharp\Second_Program\bin\Debug\net8.0\Second_Program.dll
+D:\Csharp\Second_Program\bin\Debug\net8.0\Second_Program.pdb
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.AssemblyInfoInputs.cache
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.AssemblyInfo.cs
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.csproj.CoreCompileInputs.cache
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.dll
+D:\Csharp\Second_Program\obj\Debug\net8.0\refint\Second_Program.dll
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.pdb
+D:\Csharp\Second_Program\obj\Debug\net8.0\Second_Program.genruntimeconfig.cache
+D:\Csharp\Second_Program\obj\Debug\net8.0\ref\Second_Program.dll

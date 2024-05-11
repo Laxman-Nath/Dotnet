@@ -1,0 +1,14 @@
+D:\Csharp\Methods\bin\Debug\net8.0\Methods.exe
+D:\Csharp\Methods\bin\Debug\net8.0\Methods.deps.json
+D:\Csharp\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+D:\Csharp\Methods\bin\Debug\net8.0\Methods.dll
+D:\Csharp\Methods\bin\Debug\net8.0\Methods.pdb
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.dll
+D:\Csharp\Methods\obj\Debug\net8.0\refint\Methods.dll
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.pdb
+D:\Csharp\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+D:\Csharp\Methods\obj\Debug\net8.0\ref\Methods.dll

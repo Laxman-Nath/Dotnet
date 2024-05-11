@@ -1,0 +1,14 @@
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.AssemblyInfoInputs.cache
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.AssemblyInfo.cs
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.csproj.CoreCompileInputs.cache
+D:\Csharp\Loops\forLoop\bin\Debug\net8.0\forLoop.exe
+D:\Csharp\Loops\forLoop\bin\Debug\net8.0\forLoop.deps.json
+D:\Csharp\Loops\forLoop\bin\Debug\net8.0\forLoop.runtimeconfig.json
+D:\Csharp\Loops\forLoop\bin\Debug\net8.0\forLoop.dll
+D:\Csharp\Loops\forLoop\bin\Debug\net8.0\forLoop.pdb
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.dll
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\refint\forLoop.dll
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.pdb
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\forLoop.genruntimeconfig.cache
+D:\Csharp\Loops\forLoop\obj\Debug\net8.0\ref\forLoop.dll

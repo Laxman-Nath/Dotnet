@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\efcorebasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:efcorebasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\migrations\\20240507151243_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:migrations\\20240507151243_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240507151243_Initial.cs",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\20240507151243_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240507151243_Initial.cs",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\20240507151243_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240507151243_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:12:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:55:10.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:01:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCoreBasics.csproj",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\EFCoreBasics.csproj",
+              "RelativeDocumentMoniker": "EFCoreBasics.csproj",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\EFCoreBasics.csproj",
+              "RelativeToolTip": "EFCoreBasics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T09:54:19.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:46:23.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.AssemblyInfoInputs.cache
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.AssemblyInfo.cs
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.csproj.CoreCompileInputs.cache
+D:\Csharp\Exam asked question\Abstract_Class_Demo\bin\Debug\net8.0\Abstract_Class_Demo.exe
+D:\Csharp\Exam asked question\Abstract_Class_Demo\bin\Debug\net8.0\Abstract_Class_Demo.deps.json
+D:\Csharp\Exam asked question\Abstract_Class_Demo\bin\Debug\net8.0\Abstract_Class_Demo.runtimeconfig.json
+D:\Csharp\Exam asked question\Abstract_Class_Demo\bin\Debug\net8.0\Abstract_Class_Demo.dll
+D:\Csharp\Exam asked question\Abstract_Class_Demo\bin\Debug\net8.0\Abstract_Class_Demo.pdb
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.dll
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\refint\Abstract_Class_Demo.dll
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.pdb
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\Abstract_Class_Demo.genruntimeconfig.cache
+D:\Csharp\Exam asked question\Abstract_Class_Demo\obj\Debug\net8.0\ref\Abstract_Class_Demo.dll

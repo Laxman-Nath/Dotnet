@@ -1,0 +1,14 @@
+D:\Csharp\jaggedArrays\bin\Debug\net8.0\jaggedArrays.exe
+D:\Csharp\jaggedArrays\bin\Debug\net8.0\jaggedArrays.deps.json
+D:\Csharp\jaggedArrays\bin\Debug\net8.0\jaggedArrays.runtimeconfig.json
+D:\Csharp\jaggedArrays\bin\Debug\net8.0\jaggedArrays.dll
+D:\Csharp\jaggedArrays\bin\Debug\net8.0\jaggedArrays.pdb
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.AssemblyInfoInputs.cache
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.AssemblyInfo.cs
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.csproj.CoreCompileInputs.cache
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.dll
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\refint\jaggedArrays.dll
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.pdb
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\jaggedArrays.genruntimeconfig.cache
+D:\Csharp\jaggedArrays\obj\Debug\net8.0\ref\jaggedArrays.dll

@@ -1,0 +1,14 @@
+D:\Csharp\OOPS\classobject\bin\Debug\net8.0\classobject.exe
+D:\Csharp\OOPS\classobject\bin\Debug\net8.0\classobject.deps.json
+D:\Csharp\OOPS\classobject\bin\Debug\net8.0\classobject.runtimeconfig.json
+D:\Csharp\OOPS\classobject\bin\Debug\net8.0\classobject.dll
+D:\Csharp\OOPS\classobject\bin\Debug\net8.0\classobject.pdb
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.AssemblyInfoInputs.cache
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.AssemblyInfo.cs
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.csproj.CoreCompileInputs.cache
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.dll
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\refint\classobject.dll
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.pdb
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\classobject.genruntimeconfig.cache
+D:\Csharp\OOPS\classobject\obj\Debug\net8.0\ref\classobject.dll

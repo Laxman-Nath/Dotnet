@@ -1,0 +1,73 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+
+
+<!--Inline Expression Statement-->
+@* <p>Today date and time is: @DateTime.Now</p>
+<p>This year is @DateTime.Now.Year</p> *@
+
+<!-- Declaring variables and multistatement code block -->
+@* @{
+    string name = "Laxman nath";
+    var a = 10;
+    var TodaysTime = DateTime.Now.ToLongTimeString();
+}
+
+<h2>My name is:@name</h2>
+<h2>The value of a  is:@a</h2>
+<h2>Todays time is:@TodaysTime</h2> *@
+
+<!-- Conditional Statements-->
+
+@* @{
+    int marks = 80;
+    if(marks>=80){
+        <h2>Your grade is A</h2>
+    }
+    else
+    {
+        <h2>Your grade is B</h2>
+    }
+} *@
+
+<!-- Switch case-->
+@* @{
+    var fruit = "Mango";
+    switch (fruit)
+    {
+        case "Mango":
+            <h2>Mango</h2>
+            break;
+        case "Apple":
+            <h2>Apple</h2>
+            break;
+        case "Grapes":
+            <h2>Grapes</h2>
+            break;
+        default:
+            <h2>Invalid</h2>
+            break;
+    }
+} *@
+
+
+<!-- Loops-->
+@* @{
+    for (int i = 0; i < 10; i++)
+    {
+        <h2>@i</h2>
+    }
+} *@
+
+@{
+    string[] games = { "cricket", "football", "hockey", "badminton" };
+    foreach (var item in games)
+    {
+        <h2>@item</h2>
+    }
+}

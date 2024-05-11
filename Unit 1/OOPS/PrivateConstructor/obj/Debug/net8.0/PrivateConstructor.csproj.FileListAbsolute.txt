@@ -1,0 +1,14 @@
+D:\Csharp\OOPS\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.exe
+D:\Csharp\OOPS\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.deps.json
+D:\Csharp\OOPS\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.runtimeconfig.json
+D:\Csharp\OOPS\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.dll
+D:\Csharp\OOPS\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.pdb
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.AssemblyInfoInputs.cache
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.AssemblyInfo.cs
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.csproj.CoreCompileInputs.cache
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.dll
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\refint\PrivateConstructor.dll
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.pdb
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.genruntimeconfig.cache
+D:\Csharp\OOPS\PrivateConstructor\obj\Debug\net8.0\ref\PrivateConstructor.dll

@@ -1,0 +1,38 @@
+﻿<h1>@ViewData["Message1"]</h1>
+<h1>@ViewBag.Message2</h1>
+<h2>@ViewData["CurrentDate1"]</h2>
+<h2>@ViewBag.CurrentDate2</h2>
+
+<ul>
+@{
+
+    foreach(string i in (string[])ViewData["Sports"])
+    {
+        <li>@i</li>
+    }
+}
+</ul>
+
+<ul>
+    @{
+
+        foreach (string i in ViewBag.Games)
+        {
+            <li>@i</li>
+        }
+    }
+</ul>
+
+
+@{
+    var a = (Difference_ViewData_ViewBag.Models.Employee)ViewData["Employee1"];
+    var b = ViewBag.Employee2;
+}
+
+    <h3>@a.Id</h3>
+    <h3>@a.Name</h3>
+    <h3>@a.Address</h3>
+
+<h3>@b.Id</h3>
+<h3>@b.Name</h3>
+<h3>@b.Address</h3>

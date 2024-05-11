@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>@ViewData["Message"]</h1>
+<h1>@ViewData["CurrentTime"]</h1>
+
+<ul>
+@{
+    foreach(string i in (string[])ViewData["Fruits"])
+    {
+        <li>@i</li>
+    }
+}
+</ul>
+
+<ul>
+    @{
+        foreach (string i in (List<string>)ViewData["Sports"])
+        {
+            <li>@i</li>
+        }
+    }
+</ul>
+
+@{
+    var a = (ViewDataDemo.Models.Employee)ViewData["Employee"];
+}
+
+<p>@a.Id</p>
+<p>@a.Name</p>
+<p>@a.Email</p>

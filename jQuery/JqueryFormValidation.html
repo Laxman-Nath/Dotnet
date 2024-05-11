@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <form id="myForm" action="submit" method="post" class="text-center" >
+                    <div class="form-group">
+                        <label for="userName">UserName:</label>
+                        <input type="text" name="user" id="userName" class="form-control">
+                        <h5 style="color:red;" id="namecheck"></h5>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="text" name="Email" id="email" class="form-control">
+                        <h5 style="color:red;" id="emailcheck"></h5>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password:</label>
+                        <input type="password" name="Password" id="password"class="form-control">
+                        <h5 style="color:red;" id="passwordcheck"></h5>
+                    </div>
+                    <div class="form-group">
+                       <input type="submit" value="Submit" id="submit" class="btn btn-primary">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    $(document).ready(function(){
+      $("#myForm").submit(function(e){
+        
+        // e.preventDefault();
+        return formValidation();
+      });
+
+       function formValidation(){
+         $("#namecheck").hide();
+         $("#emailcheck").hide();
+         $("#passwordcheck").hide();
+        var name=$("#userName").val();
+        var email=$("#email").val();
+        const regex=/^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        var password=$("#password").val();
+        if(name.length < 1){
+            $("#namecheck").show();
+            $("#namecheck").html("Name cannot be left empty");
+            return false;
+        }
+        if(name.length<3 || name.length>10){
+            $("#namecheck").show();
+            $("#namecheck").html("The length of name should between 3 and 10");
+            return false;
+        }
+
+        // console.log(email);
+        if(email.length<1){
+            $("#emailcheck").show();
+            $("#emailcheck").html("Email cannot be left empty");
+            return false;
+        }
+         if(!regex.test(email)){
+            $("#emailcheck").show();
+            $("#emailcheck").html("Invalid format");
+            return false;
+        }
+        if(password.length < 1){
+            $("#passwordcheck").show();
+            $("#passwordcheck").html("password cannot be left empty");
+            return false;
+        }
+         if(password.length<3 || password.length>10){
+            $("#passwordcheck").show();
+            $("#passwordcheck").html("The length of password should between 3 and 10");
+            return false;
+        }
+        return true;
+       }
+    });
+</script>
+</html>

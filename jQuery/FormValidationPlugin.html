@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+
+</head>
+<body>
+    <form id="basic-form" action="" method="post">
+        <p>
+        <label for="name">Name </label>
+        <input id="name" name="name" minlength="3" type="text" required>
+        </p>
+        <p>
+        <label for="email">E-Mail </label>
+        <input id="email" type="email" name="email" required>
+        </p>
+        <p>
+        <input class="submit" type="submit" value="SUBMIT">
+        </p>
+        </form>
+</body>
+<script>
+    $(document).ready(function() {
+     $("#basic-form").validate();
+});
+</script>
+</html>

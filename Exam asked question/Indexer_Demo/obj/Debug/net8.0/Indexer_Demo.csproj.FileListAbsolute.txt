@@ -1,0 +1,14 @@
+D:\Csharp\Exam asked Question\Indexer_Demo\bin\Debug\net8.0\Indexer_Demo.exe
+D:\Csharp\Exam asked Question\Indexer_Demo\bin\Debug\net8.0\Indexer_Demo.deps.json
+D:\Csharp\Exam asked Question\Indexer_Demo\bin\Debug\net8.0\Indexer_Demo.runtimeconfig.json
+D:\Csharp\Exam asked Question\Indexer_Demo\bin\Debug\net8.0\Indexer_Demo.dll
+D:\Csharp\Exam asked Question\Indexer_Demo\bin\Debug\net8.0\Indexer_Demo.pdb
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.AssemblyInfoInputs.cache
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.AssemblyInfo.cs
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.csproj.CoreCompileInputs.cache
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.dll
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\refint\Indexer_Demo.dll
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.pdb
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\Indexer_Demo.genruntimeconfig.cache
+D:\Csharp\Exam asked Question\Indexer_Demo\obj\Debug\net8.0\ref\Indexer_Demo.dll

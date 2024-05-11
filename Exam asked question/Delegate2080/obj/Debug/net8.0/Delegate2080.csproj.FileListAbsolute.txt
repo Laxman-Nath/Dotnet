@@ -1,0 +1,14 @@
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.AssemblyInfoInputs.cache
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.AssemblyInfo.cs
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.csproj.CoreCompileInputs.cache
+D:\Csharp\Exam asked question\Delegate2080\bin\Debug\net8.0\Delegate2080.exe
+D:\Csharp\Exam asked question\Delegate2080\bin\Debug\net8.0\Delegate2080.deps.json
+D:\Csharp\Exam asked question\Delegate2080\bin\Debug\net8.0\Delegate2080.runtimeconfig.json
+D:\Csharp\Exam asked question\Delegate2080\bin\Debug\net8.0\Delegate2080.dll
+D:\Csharp\Exam asked question\Delegate2080\bin\Debug\net8.0\Delegate2080.pdb
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.dll
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\refint\Delegate2080.dll
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.pdb
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\Delegate2080.genruntimeconfig.cache
+D:\Csharp\Exam asked question\Delegate2080\obj\Debug\net8.0\ref\Delegate2080.dll

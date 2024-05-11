@@ -1,0 +1,14 @@
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.AssemblyInfoInputs.cache
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.AssemblyInfo.cs
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.csproj.CoreCompileInputs.cache
+D:\Csharp\Fileio\third\bin\Debug\net8.0\third.exe
+D:\Csharp\Fileio\third\bin\Debug\net8.0\third.deps.json
+D:\Csharp\Fileio\third\bin\Debug\net8.0\third.runtimeconfig.json
+D:\Csharp\Fileio\third\bin\Debug\net8.0\third.dll
+D:\Csharp\Fileio\third\bin\Debug\net8.0\third.pdb
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.dll
+D:\Csharp\Fileio\third\obj\Debug\net8.0\refint\third.dll
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.pdb
+D:\Csharp\Fileio\third\obj\Debug\net8.0\third.genruntimeconfig.cache
+D:\Csharp\Fileio\third\obj\Debug\net8.0\ref\third.dll

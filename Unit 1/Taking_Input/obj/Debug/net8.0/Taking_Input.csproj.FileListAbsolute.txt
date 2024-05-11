@@ -1,0 +1,14 @@
+D:\Csharp\Taking_Input\bin\Debug\net8.0\Taking_Input.exe
+D:\Csharp\Taking_Input\bin\Debug\net8.0\Taking_Input.deps.json
+D:\Csharp\Taking_Input\bin\Debug\net8.0\Taking_Input.runtimeconfig.json
+D:\Csharp\Taking_Input\bin\Debug\net8.0\Taking_Input.dll
+D:\Csharp\Taking_Input\bin\Debug\net8.0\Taking_Input.pdb
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.AssemblyInfoInputs.cache
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.AssemblyInfo.cs
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.csproj.CoreCompileInputs.cache
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.dll
+D:\Csharp\Taking_Input\obj\Debug\net8.0\refint\Taking_Input.dll
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.pdb
+D:\Csharp\Taking_Input\obj\Debug\net8.0\Taking_Input.genruntimeconfig.cache
+D:\Csharp\Taking_Input\obj\Debug\net8.0\ref\Taking_Input.dll

@@ -1,0 +1,4 @@
+D:\Csharp\Homework2\obj\Debug\net8.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfoInputs.cache
+D:\Csharp\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfo.cs
+D:\Csharp\Homework2\obj\Debug\net8.0\Homework2.csproj.CoreCompileInputs.cache
