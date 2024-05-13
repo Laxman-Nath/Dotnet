@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8vnzDMmXmGhP5fJ7ChSjQcM0JtnZ1O3Yu2KFoGsGhnMyFkVMtRg9OJS+5jKkq54y+Gc+ZnYfV9ZxYpx8msFjdA==",
+  "dgSpecHash": "4oEbVkSUDIpLWM9dT6nHUiZ+PBDty4Rtx6bDx9A7A2YgwmnyHkUEr311QhjrxaiUXLrkDjwIvhGhYqEBX66gDQ==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\MVC\\Image_TagHelper\\Image_TagHelper.csproj",
+  "projectFilePath": "D:\\Dotnet\\MVC\\Image_TagHelper\\Image_TagHelper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

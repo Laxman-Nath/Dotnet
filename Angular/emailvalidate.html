@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<script src="angular.js"></script>
+<title>Email validation</title>
+<body ng-app="">
+
+<p>Try writing in the input field:</p>
+
+<form name="myForm">
+<input type="email" name="myInput" ng-model="myInput" required>
+</form>
+
+<p>The input's valid state is:</p>
+<h1>{{myForm.myInput.$valid}}</h1>
+
+</body>
+</html>

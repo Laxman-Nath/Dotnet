@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\MVC\\Image_TagHelper\\Image_TagHelper.csproj": {}
+    "D:\\Dotnet\\MVC\\Image_TagHelper\\Image_TagHelper.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\MVC\\Image_TagHelper\\Image_TagHelper.csproj": {
+    "D:\\Dotnet\\MVC\\Image_TagHelper\\Image_TagHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\MVC\\Image_TagHelper\\Image_TagHelper.csproj",
+        "projectUniqueName": "D:\\Dotnet\\MVC\\Image_TagHelper\\Image_TagHelper.csproj",
         "projectName": "Image_TagHelper",
-        "projectPath": "D:\\Csharp\\MVC\\Image_TagHelper\\Image_TagHelper.csproj",
+        "projectPath": "D:\\Dotnet\\MVC\\Image_TagHelper\\Image_TagHelper.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\MVC\\Image_TagHelper\\obj\\",
+        "outputPath": "D:\\Dotnet\\MVC\\Image_TagHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

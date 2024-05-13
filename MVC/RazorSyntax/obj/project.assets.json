@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC\\RazorSyntax\\RazorSyntax.csproj",
+      "projectUniqueName": "D:\\Dotnet\\MVC\\RazorSyntax\\RazorSyntax.csproj",
       "projectName": "RazorSyntax",
-      "projectPath": "D:\\MVC\\RazorSyntax\\RazorSyntax.csproj",
+      "projectPath": "D:\\Dotnet\\MVC\\RazorSyntax\\RazorSyntax.csproj",
       "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC\\RazorSyntax\\obj\\",
+      "outputPath": "D:\\Dotnet\\MVC\\RazorSyntax\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

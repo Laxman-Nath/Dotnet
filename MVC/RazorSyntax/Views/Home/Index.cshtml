@@ -64,10 +64,24 @@
     }
 } *@
 
-@{
+@* {
     string[] games = { "cricket", "football", "hockey", "badminton" };
     foreach (var item in games)
     {
         <h2>@item</h2>
+    }
+} *@
+
+
+@{
+    for(int i = 0; i < 5; i++)
+
+    if (i % 2 == 0)
+    {
+        <h2 style="background-color:green;">@i</h2>
+    }
+    else
+    {
+        <h2 style="background-color:red;">@i</h2>
     }
 }

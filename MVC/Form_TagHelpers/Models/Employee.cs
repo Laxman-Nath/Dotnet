@@ -4,7 +4,7 @@
     {
         public string Name { get; set; }
         public int Age { get; set; }
-        public String Designation { get; set; }
-        public String Address { get; set; }
+        public string Designation { get; set; }
+        public string Address { get; set; }
     }
 }
