@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Model_Binding2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39de210ff26150d33d989cf8437c118b812c7378")]
 [assembly: System.Reflection.AssemblyProductAttribute("Model_Binding2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Model_Binding2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

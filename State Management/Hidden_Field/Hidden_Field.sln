@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hidden_Field", "Hidden_Field.csproj", "{CBA0ECC1-6D4B-4D7E-B718-5D548766915B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA0ECC1-6D4B-4D7E-B718-5D548766915B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA0ECC1-6D4B-4D7E-B718-5D548766915B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA0ECC1-6D4B-4D7E-B718-5D548766915B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA0ECC1-6D4B-4D7E-B718-5D548766915B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89323FC-C3D2-4DA8-9203-6BCB303EC5F2}
+	EndGlobalSection
+EndGlobal

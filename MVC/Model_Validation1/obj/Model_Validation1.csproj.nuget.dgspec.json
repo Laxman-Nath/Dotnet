@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\MVC\\Model_Validation1\\Model_Validation1.csproj": {}
+    "D:\\Dotnet\\MVC\\Model_Validation1\\Model_Validation1.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\MVC\\Model_Validation1\\Model_Validation1.csproj": {
+    "D:\\Dotnet\\MVC\\Model_Validation1\\Model_Validation1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\MVC\\Model_Validation1\\Model_Validation1.csproj",
+        "projectUniqueName": "D:\\Dotnet\\MVC\\Model_Validation1\\Model_Validation1.csproj",
         "projectName": "Model_Validation1",
-        "projectPath": "D:\\Csharp\\MVC\\Model_Validation1\\Model_Validation1.csproj",
+        "projectPath": "D:\\Dotnet\\MVC\\Model_Validation1\\Model_Validation1.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\MVC\\Model_Validation1\\obj\\",
+        "outputPath": "D:\\Dotnet\\MVC\\Model_Validation1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

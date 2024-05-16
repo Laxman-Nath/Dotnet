@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Csharp\\MVC\\Model_Binding2\\",
+  "WorkspaceRootPath": "D:\\Dotnet\\MVC\\Model_Binding2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\csharp\\mvc\\model_binding2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\dotnet\\mvc\\model_binding2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\csharp\\mvc\\model_binding2\\views\\home\\simplebinding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|solutionrelative:views\\home\\simplebinding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\csharp\\mvc\\model_binding2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\dotnet\\mvc\\model_binding2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\csharp\\mvc\\model_binding2\\models\\webuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\dotnet\\mvc\\model_binding2\\models\\webuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|solutionrelative:models\\webuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|d:\\dotnet\\mvc\\model_binding2\\views\\home\\simplebinding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8801491E-6040-4E77-80B1-FCF99ADD9AF6}|Model_Binding2.csproj|solutionrelative:views\\home\\simplebinding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\MVC\\Model_Binding2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\MVC\\Model_Binding2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Csharp\\MVC\\Model_Binding2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet\\MVC\\Model_Binding2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -43,41 +43,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SimpleBinding.cshtml",
-              "DocumentMoniker": "D:\\Csharp\\MVC\\Model_Binding2\\Views\\Home\\SimpleBinding.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\MVC\\Model_Binding2\\Views\\Home\\SimpleBinding.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\SimpleBinding.cshtml",
-              "ToolTip": "D:\\Csharp\\MVC\\Model_Binding2\\Views\\Home\\SimpleBinding.cshtml",
+              "ToolTip": "D:\\Dotnet\\MVC\\Model_Binding2\\Views\\Home\\SimpleBinding.cshtml",
               "RelativeToolTip": "Views\\Home\\SimpleBinding.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T08:48:32.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T08:48:32.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Csharp\\MVC\\Model_Binding2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\MVC\\Model_Binding2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Csharp\\MVC\\Model_Binding2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dotnet\\MVC\\Model_Binding2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T08:46:18.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebUser.cs",
-              "DocumentMoniker": "D:\\Csharp\\MVC\\Model_Binding2\\Models\\WebUser.cs",
+              "DocumentMoniker": "D:\\Dotnet\\MVC\\Model_Binding2\\Models\\WebUser.cs",
               "RelativeDocumentMoniker": "Models\\WebUser.cs",
-              "ToolTip": "D:\\Csharp\\MVC\\Model_Binding2\\Models\\WebUser.cs",
+              "ToolTip": "D:\\Dotnet\\MVC\\Model_Binding2\\Models\\WebUser.cs",
               "RelativeToolTip": "Models\\WebUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T08:45:34.633Z"
+              "WhenOpened": "2024-04-24T08:45:34.633Z",
+              "EditorCaption": ""
             }
           ]
         }

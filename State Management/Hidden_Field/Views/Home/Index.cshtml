@@ -1,0 +1,18 @@
+﻿@model Hidden_Field.Models.Student;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Index</h2>
+ @using (Html.BeginForm("Index2","Home",FormMethod.Post))
+{
+   @Html.HiddenFor(m => m.studentId,new {Value ="1"})
+    @Html.HiddenFor(m => m.studentName, new {Value = "Laxman" })
+    <input type="submit" value="Submit" /> 
+} 
+
+@* <form asp-action="Index2" asp-controller="Home" >
+    <input type="hidden" asp-for="studentId" value=1 />
+    <input type="hidden" asp-for="studentName" value="Laxman"/>
+    <input type="submit" value="Submit" />
+</form> *@

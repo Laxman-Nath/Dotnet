@@ -21,8 +21,8 @@ namespace Model_Validation1.Controllers
         [HttpPost]
         public IActionResult  Index(Student s)
         {
-            return View();
-            //if(ModelState.IsValid)
+            return View(s);
+            //if (ModelState.IsValid)
             //{
             //    return "Name is :" + s.Name;
             //}

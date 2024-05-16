@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp\\MVC\\Model_Binding2\\Model_Binding2.csproj",
+      "projectUniqueName": "D:\\Dotnet\\MVC\\Model_Binding2\\Model_Binding2.csproj",
       "projectName": "Model_Binding2",
-      "projectPath": "D:\\Csharp\\MVC\\Model_Binding2\\Model_Binding2.csproj",
+      "projectPath": "D:\\Dotnet\\MVC\\Model_Binding2\\Model_Binding2.csproj",
       "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp\\MVC\\Model_Binding2\\obj\\",
+      "outputPath": "D:\\Dotnet\\MVC\\Model_Binding2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",
