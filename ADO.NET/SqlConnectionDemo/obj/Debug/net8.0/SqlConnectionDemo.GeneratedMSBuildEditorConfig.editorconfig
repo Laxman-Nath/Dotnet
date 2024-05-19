@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SqlConnectionDemo
-build_property.ProjectDir = D:\Csharp\ADO.NET\SqlConnectionDemo\
+build_property.ProjectDir = D:\Dotnet\ADO.NET\SqlConnectionDemo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

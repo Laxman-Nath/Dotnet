@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj": {}
+    "D:\\Dotnet\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj": {
+    "D:\\Dotnet\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj",
+        "projectUniqueName": "D:\\Dotnet\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj",
         "projectName": "SqlDataReader",
-        "projectPath": "D:\\Csharp\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj",
+        "projectPath": "D:\\Dotnet\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\ADO.NET\\SqlDataReader\\obj\\",
+        "outputPath": "D:\\Dotnet\\ADO.NET\\SqlDataReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADO_NET2079")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5c6e4e8dc37a9f802acda244564d781c1ac8c8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADO_NET2079")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADO_NET2079")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

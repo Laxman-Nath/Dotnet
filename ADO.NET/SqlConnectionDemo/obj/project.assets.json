@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp\\ADO.NET\\SqlConnectionDemo\\SqlConnectionDemo.csproj",
+      "projectUniqueName": "D:\\Dotnet\\ADO.NET\\SqlConnectionDemo\\SqlConnectionDemo.csproj",
       "projectName": "SqlConnectionDemo",
-      "projectPath": "D:\\Csharp\\ADO.NET\\SqlConnectionDemo\\SqlConnectionDemo.csproj",
+      "projectPath": "D:\\Dotnet\\ADO.NET\\SqlConnectionDemo\\SqlConnectionDemo.csproj",
       "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp\\ADO.NET\\SqlConnectionDemo\\obj\\",
+      "outputPath": "D:\\Dotnet\\ADO.NET\\SqlConnectionDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

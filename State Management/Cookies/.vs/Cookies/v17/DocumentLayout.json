@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Dotnet\\State Management\\Cookies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\deletecookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:views\\home\\deletecookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:views\\home\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\deletecookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:views\\home\\deletecookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|solutionrelative:views\\home\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F65F1CE-BA64-4449-AA87-1613CB622B68}|Cookies.csproj|d:\\dotnet\\state management\\cookies\\views\\home\\setcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "deleteCookie.cshtml",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Cookies\\Views\\Home\\deleteCookie.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\deleteCookie.cshtml",
@@ -50,24 +50,24 @@
               "RelativeToolTip": "Views\\Home\\deleteCookie.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T06:51:23.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T06:51:23.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Cookies\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Dotnet\\State Management\\Cookies\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T05:44:19.189Z"
+              "WhenOpened": "2024-05-12T05:44:19.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Cookies\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -79,15 +79,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GetCookie.cshtml",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Cookies\\Views\\Home\\GetCookie.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\GetCookie.cshtml",
               "ToolTip": "D:\\Dotnet\\State Management\\Cookies\\Views\\Home\\GetCookie.cshtml",
               "RelativeToolTip": "Views\\Home\\GetCookie.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T03:22:18.179Z"
+              "WhenOpened": "2024-05-12T03:22:18.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Cookies\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -111,17 +112,18 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T03:12:21.422Z"
+              "WhenOpened": "2024-05-12T03:12:21.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Cookies\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\Dotnet\\State Management\\Cookies\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAAC4AAAAsAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T03:02:38.296Z",
               "EditorCaption": ""

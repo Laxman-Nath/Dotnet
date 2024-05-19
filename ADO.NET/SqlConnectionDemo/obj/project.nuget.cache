@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "evZF+ZtT6Boe4sDyrFzaYu3xyTDN3cEJdvPJ990dh2oayDsqUU/hwiJcj0bxFshrCnqUCQjcvU/wRdAk6zPuSg==",
+  "dgSpecHash": "FyEV3zmKIEoDjmmZhhuh1z6OQ+MRttOpT5rqRJpA5tnGL1pr8L3YwUpGVNktQdCrFCacfQJpyUGsvowv7Tm+fA==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\ADO.NET\\SqlConnectionDemo\\SqlConnectionDemo.csproj",
+  "projectFilePath": "D:\\Dotnet\\ADO.NET\\SqlConnectionDemo\\SqlConnectionDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saitech\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Saitech\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

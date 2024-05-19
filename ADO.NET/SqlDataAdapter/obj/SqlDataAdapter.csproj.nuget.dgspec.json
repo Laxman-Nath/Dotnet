@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj": {}
+    "D:\\Dotnet\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj": {
+    "D:\\Dotnet\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj",
+        "projectUniqueName": "D:\\Dotnet\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj",
         "projectName": "SqlDataAdapter",
-        "projectPath": "D:\\Csharp\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj",
+        "projectPath": "D:\\Dotnet\\ADO.NET\\SqlDataAdapter\\SqlDataAdapter.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\ADO.NET\\SqlDataAdapter\\obj\\",
+        "outputPath": "D:\\Dotnet\\ADO.NET\\SqlDataAdapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

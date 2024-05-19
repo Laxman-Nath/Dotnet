@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet\\EF CORE\\2080EFCore\\2080EFCore.csproj": {}
+    "D:\\Dotnet\\Exam asked question\\2080EFCore\\2080EFCore.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet\\EF CORE\\2080EFCore\\2080EFCore.csproj": {
+    "D:\\Dotnet\\Exam asked question\\2080EFCore\\2080EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet\\EF CORE\\2080EFCore\\2080EFCore.csproj",
+        "projectUniqueName": "D:\\Dotnet\\Exam asked question\\2080EFCore\\2080EFCore.csproj",
         "projectName": "2080EFCore",
-        "projectPath": "D:\\Dotnet\\EF CORE\\2080EFCore\\2080EFCore.csproj",
+        "projectPath": "D:\\Dotnet\\Exam asked question\\2080EFCore\\2080EFCore.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet\\EF CORE\\2080EFCore\\obj\\",
+        "outputPath": "D:\\Dotnet\\Exam asked question\\2080EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

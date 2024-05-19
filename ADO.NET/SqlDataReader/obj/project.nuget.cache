@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CAdNq/tYRMwkySNiGDULscSwLVpfUTMhukP+DksaFyGnGW3QMxor4x6P19YuJExQXqmooQrCyDlGlzG5E2yP1g==",
+  "dgSpecHash": "iVMHtjulqLnasyo+bk7r5Eiu0eptx+RhKqgUQaeK011kU5tZZixwz5l1o8fJwlUB/Le6kWOTRQzyD+reQFOY/Q==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj",
+  "projectFilePath": "D:\\Dotnet\\ADO.NET\\SqlDataReader\\SqlDataReader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saitech\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Saitech\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

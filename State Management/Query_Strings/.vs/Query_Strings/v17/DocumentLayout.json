@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Dotnet\\State Management\\Query_Strings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|d:\\dotnet\\state management\\query_strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0849E07B-4896-4918-B2DD-58FC7FB288A7}|Query_Strings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Query_Strings\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Dotnet\\State Management\\Query_Strings\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAA4wA8AAAAaAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA4wAMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T04:46:26.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Query_Strings\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
               "ToolTip": "D:\\Dotnet\\State Management\\Query_Strings\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T03:26:49.411Z"
+              "WhenOpened": "2024-05-14T03:26:49.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,28 +73,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Query_Strings\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\Dotnet\\State Management\\Query_Strings\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T03:20:12.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Dotnet\\State Management\\Query_Strings\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "D:\\Dotnet\\State Management\\Query_Strings\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:19:41.858Z"
+              "WhenOpened": "2024-05-14T03:19:41.858Z",
+              "EditorCaption": ""
             }
           ]
         }

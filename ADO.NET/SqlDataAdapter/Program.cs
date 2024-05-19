@@ -8,7 +8,7 @@ namespace MyApp
         {
             String cd = "Data source=DESKTOP-0R1UM5C\\SQLEXPRESS; Initial Catalog=ado_db; Integrated security=true";
             SqlConnection conn=new SqlConnection(cd);
-            conn.Open();
+            //conn.Open();
             SqlDataAdapter sad = new SqlDataAdapter("Select * from Student", conn);
             DataSet ds = new DataSet();
             sad.Fill(ds);
