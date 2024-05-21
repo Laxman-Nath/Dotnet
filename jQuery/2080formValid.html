@@ -1,0 +1,86 @@
+<!-- How can you validate form using jquery.Describe with your own assumptions -->
+
+<!-- 1.Using core jQuery -->
+
+<!-- <html>
+    <head>
+        <title>Form validation using jQuery</title>
+        <script src="jquery.js"></script>
+    </head>
+    <body>
+        <form action="" method="post" id="myForm">
+            Name:<input type="text" name="name" id="name">
+            <p id="nameerror" style="color:red;"></p>
+            Address:<input type="text" name="address" id="address">
+            <p id="addresserror" style=""></p>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+    <script>
+        $(document).ready(function(){
+            $("#myForm").submit(function(e){
+            //    e.preventDefault();
+                return formValidation();
+               
+            });
+
+            function formValidation(){
+                
+                $("#nameerror").hide();
+                $("#addresserror").hide();
+                var name=$("#name").val();
+                var address=$("#address").val();
+               
+                if(name.length<1){
+                    $("#nameerror").show();
+                    $("#nameerror").html("name cannot be empty");
+                    return false;
+                }
+                if(name.length>10){
+                    $("#nameerror").show();
+                    $("#nameerror").html("Name should not have length greater than 10");
+                    return false;
+                }
+                if(address.length<1){
+                    $("#addresserror").show();
+                    $("#addresserror").html("address cannot be empty");
+                    return false;
+                }
+                if(address.length<5){
+                    $("#addresserror").show();
+                    $("#addresserror").html("address length should be greater than 5");
+                    return false;
+                }
+            }
+            return true;
+        });
+    </script>
+</html> -->
+
+
+
+
+<!-- 2.Using jQuery plugin -->
+
+<html>
+    <head>
+        <title>Form validation using jQuery</title>
+        <script src="jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+
+    </head>
+    <body>
+        <form action="" method="post" id="myForm">
+            Name:<input type="text" name="name" required minlength="3">
+            <p id="nameerror" style="color:red;"></p>
+            Address:<input type="text" name="address" required minlength="4">
+            <p id="addresserror" style=""></p>
+            <input type="submit" value="Submit">
+        </form>
+
+        <script>
+            $(document).ready(function(){
+                $("#myForm").validate();
+            });
+        </script>
+    </body>
