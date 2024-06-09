@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "auZwttTefgzifrBAcCZ76D7FuFr4AtnZGlWLikcjaqw9bi9O6HKLC7iPK+jWH+3lkNJrD6Lbu0kI33wBcyUCfQ==",
+  "dgSpecHash": "3SO5Sp50Xp/NWcsjf0PLPSVY44gi81+emfuO3tDHzS0QYLhBLlsJLn/12WiohdEIgkdzwIgBxxSD2mq/X3aC3A==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\Fileio\\third\\third.csproj",
+  "projectFilePath": "D:\\Dotnet\\Unit 1\\Fileio\\third\\third.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

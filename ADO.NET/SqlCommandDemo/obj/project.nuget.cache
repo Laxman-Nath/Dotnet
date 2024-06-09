@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdtFjMr2G1dTX7E+O6+QfqNl6mrxvYh1zR7LJGdzHl8d2k5BHTVJVEFiT0Ei+YcGGTZPP/gx8uIFjkzVA7gckw==",
+  "dgSpecHash": "1Lbzce4hXp2mFoFwEmqaComt2hB5O1S/U8dXiSqPYS/2BhHWfFnRNL4svI/q+NnaWXk7jhrf40lMUfAqdgM9rQ==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\ADO.NET\\SqlCommandDemo\\SqlCommandDemo.csproj",
+  "projectFilePath": "D:\\Dotnet\\ADO.NET\\SqlCommandDemo\\SqlCommandDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saitech\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Saitech\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

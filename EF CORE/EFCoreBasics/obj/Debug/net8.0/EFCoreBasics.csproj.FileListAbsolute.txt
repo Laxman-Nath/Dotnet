@@ -128,3 +128,4 @@ D:\Dotnet\EF CORE\EFCoreBasics\obj\Debug\net8.0\refint\EFCoreBasics.dll
 D:\Dotnet\EF CORE\EFCoreBasics\obj\Debug\net8.0\EFCoreBasics.pdb
 D:\Dotnet\EF CORE\EFCoreBasics\obj\Debug\net8.0\EFCoreBasics.genruntimeconfig.cache
 D:\Dotnet\EF CORE\EFCoreBasics\obj\Debug\net8.0\ref\EFCoreBasics.dll
+D:\Dotnet\EF CORE\EFCoreBasics\obj\Debug\net8.0\EFCoreBasics.sourcelink.json

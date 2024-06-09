@@ -2,9 +2,9 @@
 namespace myApplication
 {
     class customException : Exception {
-        public customException() { }    
+        //public customException() { }    
         public customException(string message):base(message) { }
-        public customException(string message, Exception innerException):base(message, innerException) { }
+        //public customException(string message, Exception innerException):base(message, innerException) { }
     }
 
     class Program { 
@@ -14,7 +14,7 @@ namespace myApplication
             {
                 throw new customException("This is the custom exception i have created!");
             }
-            catch (Exception ex)
+            catch (customException ex)
             {
                 Console.WriteLine("Exception caught:" + ex.Message);
             }

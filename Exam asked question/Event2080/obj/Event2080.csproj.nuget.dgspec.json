@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\Exam asked question\\Event2080\\Event2080.csproj": {}
+    "D:\\Dotnet\\Exam asked question\\Event2080\\Event2080.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\Exam asked question\\Event2080\\Event2080.csproj": {
+    "D:\\Dotnet\\Exam asked question\\Event2080\\Event2080.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\Exam asked question\\Event2080\\Event2080.csproj",
+        "projectUniqueName": "D:\\Dotnet\\Exam asked question\\Event2080\\Event2080.csproj",
         "projectName": "Event2080",
-        "projectPath": "D:\\Csharp\\Exam asked question\\Event2080\\Event2080.csproj",
+        "projectPath": "D:\\Dotnet\\Exam asked question\\Event2080\\Event2080.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\Exam asked question\\Event2080\\obj\\",
+        "outputPath": "D:\\Dotnet\\Exam asked question\\Event2080\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

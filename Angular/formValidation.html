@@ -20,14 +20,14 @@
     <body>
         <div ng-app="formApp" ng-controller="formCtrl">
             <form name="personForm" ng-submit="sendForm()">
-                Name: <input type="text" name="name" ng-model="person.name" required />
+                Name: <input type="text" name="name" ng-model="person.name" required minlength="5" />
 
-                <span ng-show="personForm.name.$error.required"> Required! </span>
+                <span ng-show="personForm.name.$error.minlength"> The length should be greater than 5</span>
                 <br /><br />
 
-                Age: <input type="number" name="age" ng-model="person.age" required />
+                Age: <input type="number" name="age" ng-model="person.age" required minlength="5" />
 
-                <span ng-show="personForm.age.$error.required"> Required! </span>
+                <span ng-show="personForm.age.$error.minlength">  The length should be greater than 5</span>
                 <br /><br />
 
                 <button type="submit">Submit</button><br /><br />

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Dotnet\\EF CORE\\EFCorePractice2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F07EF8A-CF93-441F-B818-485269BA9EE9}|EFCorePractice2.csproj|d:\\dotnet\\ef core\\efcorepractice2\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F07EF8A-CF93-441F-B818-485269BA9EE9}|EFCorePractice2.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F07EF8A-CF93-441F-B818-485269BA9EE9}|EFCorePractice2.csproj|d:\\dotnet\\ef core\\efcorepractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F07EF8A-CF93-441F-B818-485269BA9EE9}|EFCorePractice2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F07EF8A-CF93-441F-B818-485269BA9EE9}|EFCorePractice2.csproj|d:\\dotnet\\ef core\\efcorepractice2\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F07EF8A-CF93-441F-B818-485269BA9EE9}|EFCorePractice2.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dotnet\\EF CORE\\EFCorePractice2\\Migrations\\20240507145257_Insert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -94,26 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCorePractice2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Dotnet\\EF CORE\\EFCorePractice2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T06:54:04.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCorePractice2\\Database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
               "ToolTip": "D:\\Dotnet\\EF CORE\\EFCorePractice2\\Database\\AppDbContext.cs",
               "RelativeToolTip": "Database\\AppDbContext.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAABRAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T06:55:51.763Z",
               "EditorCaption": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp\\MVC\\2078_Exception\\2078_Exception.csproj",
+      "projectUniqueName": "D:\\Dotnet\\Exam asked question\\2078_Exception\\2078_Exception.csproj",
       "projectName": "2078_Exception",
-      "projectPath": "D:\\Csharp\\MVC\\2078_Exception\\2078_Exception.csproj",
+      "projectPath": "D:\\Dotnet\\Exam asked question\\2078_Exception\\2078_Exception.csproj",
       "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp\\MVC\\2078_Exception\\obj\\",
+      "outputPath": "D:\\Dotnet\\Exam asked question\\2078_Exception\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",

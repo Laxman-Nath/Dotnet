@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Csharp\\MVC\\2078_Exception\\",
+  "WorkspaceRootPath": "D:\\Dotnet\\Exam asked question\\2078_Exception\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C023972-A31B-4BB8-97FB-31A7AB8C3A5B}|2078_Exception.csproj|d:\\csharp\\mvc\\2078_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C023972-A31B-4BB8-97FB-31A7AB8C3A5B}|2078_Exception.csproj|d:\\dotnet\\exam asked question\\2078_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C023972-A31B-4BB8-97FB-31A7AB8C3A5B}|2078_Exception.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Csharp\\MVC\\2078_Exception\\Program.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Exam asked question\\2078_Exception\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Csharp\\MVC\\2078_Exception\\Program.cs",
+              "ToolTip": "D:\\Dotnet\\Exam asked question\\2078_Exception\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA8AAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA4wAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T10:02:24.028Z",
               "EditorCaption": ""

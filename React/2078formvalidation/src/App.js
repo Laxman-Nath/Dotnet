@@ -9,20 +9,17 @@ function App() {
   function formHandler(e){
       if(name.length==0){
         alert("Name cannot be left empty");
-      
       }
-      if(name.length>10){
-        alert("The length of name should not be greater than 10");
-      
+      if(name.length<5 && name.length>0){
+        alert("The length of name should be greater than 5");
       }
       if(address.length==0){
         alert("Address cannot be left empty");
-      
       }
-      if(address.length>10){
-        alert("The address of length cannot be greater than 10");
+      if(address.length<5 && address.length>0){
+        alert("The address of length should be greater than 5");
       }
-    e.preventDefault();
+    // e.preventDefault();
   }
 
 

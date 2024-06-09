@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\Fileio\\second\\second.csproj": {}
+    "D:\\Dotnet\\Unit 1\\Fileio\\second\\second.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\Fileio\\second\\second.csproj": {
+    "D:\\Dotnet\\Unit 1\\Fileio\\second\\second.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\Fileio\\second\\second.csproj",
+        "projectUniqueName": "D:\\Dotnet\\Unit 1\\Fileio\\second\\second.csproj",
         "projectName": "second",
-        "projectPath": "D:\\Csharp\\Fileio\\second\\second.csproj",
+        "projectPath": "D:\\Dotnet\\Unit 1\\Fileio\\second\\second.csproj",
         "packagesPath": "C:\\Users\\Saitech\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\Fileio\\second\\obj\\",
+        "outputPath": "D:\\Dotnet\\Unit 1\\Fileio\\second\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Saitech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

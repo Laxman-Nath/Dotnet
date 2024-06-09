@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cWGa17xWqaYfw7UxdpgCPeUoSnt4XlfmYRkapx3pV3Q9yh3prOxz7yfBZODRWAITrR/Buv4KXKxoyYNEbECLxw==",
+  "dgSpecHash": "v+0LPEfxea1GpOyztTMqLKQBORdtFI+TdIRVBTJ0qJF86rc36Zbd+bSErnh4Vqqnhf7czNsfrlUy79te1xq7gA==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\Fileio\\first\\first.csproj",
+  "projectFilePath": "D:\\Dotnet\\Unit 1\\Fileio\\first\\first.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

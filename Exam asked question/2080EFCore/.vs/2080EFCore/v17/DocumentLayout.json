@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Dotnet\\Exam asked question\\2080EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|d:\\dotnet\\exam asked question\\2080efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|d:\\dotnet\\exam asked question\\2080efcore\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|d:\\dotnet\\exam asked question\\2080efcore\\models\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|solutionrelative:models\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|d:\\dotnet\\exam asked question\\2080efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75184D63-313D-468C-AE52-9ABE0714B7F3}|2080EFCore.csproj|d:\\dotnet\\exam asked question\\2080efcore\\migrations\\20240508083047_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Migrations\\20240508083047_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T08:30:47.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T08:30:47.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Dotnet\\Exam asked question\\2080EFCore\\Database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "2080EFCore.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-08T08:20:21.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T08:20:21.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BAG.cs",
               "DocumentMoniker": "D:\\Dotnet\\Exam asked question\\2080EFCore\\Models\\BAG.cs",
               "RelativeDocumentMoniker": "Models\\BAG.cs",
@@ -86,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dotnet\\Exam asked question\\2080EFCore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Dotnet\\Exam asked question\\2080EFCore\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T08:14:26.908Z",
               "EditorCaption": ""

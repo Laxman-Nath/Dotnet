@@ -109,11 +109,33 @@ namespace db
                 }
             }
         }
+
+        public static void show()
+        {
+            string cs = "Data Source=DESKTOP-0R1UM5C\\SQLEXPRESS; Initial Catalog=ado_db; Integrated Security=true";
+            using(SqlConnection conn=new SqlConnection(cs))
+            {
+                Console.WriteLine("Enter id of a student:");
+                string id = Console.ReadLine();
+                //String query="Select * from Employee where Id='"+id+"'";
+                String query = "Select * from Employee where Id=@id";
+                conn.Open();
+                SqlCommand cmd=new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("id", id);
+                SqlDataReader reader= cmd.ExecuteReader();
+                while(reader.Read())
+                {
+                    Console.WriteLine( " Name:" + reader["name"] + " Gender:" + reader["gender"] + " Age:" + reader["age"] + " Salary:" + reader["salary"] + " City:" + reader["city"]);
+
+                }
+            }
+        }
         public static void Main(string[] args)
         {
             //Program.insert();
             //Program.update();
-            Program.delete();
+            //Program.delete();
+            Program.show();
 
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlCommandDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc1e271cc3ade4a568b08c26f193d9ffce62e7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlCommandDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlCommandDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
