@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\migrations\\20240612161721_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:migrations\\20240612161721_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\efcorebasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:efcorebasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|d:\\dotnet\\ef core\\efcorebasics\\migrations\\20240507151243_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0959C3-B228-4A85-A90E-ABD9AF9BD4C3}|EFCoreBasics.csproj|solutionrelative:migrations\\20240507151243_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240507151243_Initial.cs",
-              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\20240507151243_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240507151243_Initial.cs",
-              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\20240507151243_Initial.cs",
-              "RelativeToolTip": "Migrations\\20240507151243_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T15:12:43.354Z"
+              "WhenOpened": "2024-06-12T16:17:34.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240612161721_initial.cs",
+              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\20240612161721_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612161721_initial.cs",
+              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Migrations\\20240612161721_initial.cs",
+              "RelativeToolTip": "Migrations\\20240612161721_initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:17:21.498Z"
             },
             {
               "$type": "Document",
@@ -52,27 +64,13 @@
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T09:55:10.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T09:55:10.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
-              "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "Database\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:01:45.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EFCoreBasics.csproj",
               "DocumentMoniker": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\EFCoreBasics.csproj",
               "RelativeDocumentMoniker": "EFCoreBasics.csproj",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "EFCoreBasics.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-05T09:54:19.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T09:54:19.304Z"
             },
             {
               "$type": "Document",
@@ -91,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Dotnet\\EF CORE\\EFCoreBasics\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBgAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T09:46:23.312Z",
               "EditorCaption": ""

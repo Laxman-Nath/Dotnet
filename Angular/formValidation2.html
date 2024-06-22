@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="angular.js"></script>
+    <script type="text/javascript">
+      var app=angular.module("myApp",[]);
+      app.controller('myCtrl',function($scope){
+        $scope.sendForm=function(){
+            $scope.msg="Form validated successfully"
+        };
+      });
+    </script>
+</head>
+<body>
+    <div ng-app="myApp" ng-controller="myCtrl">
+        <form name="myForm" ng-submit="sendForm()">
+            <div>
+                <input type="text" placeholder="Name" name="name" ng-model="name" required minlength="2" maxlength="5">
+                <span ng-show="myForm.name.$error.required">This field cannnot be left empty</span>
+                <span ng-show="myForm.name.$error.minlength">This field should have length at least 2</span>
+                <!-- <span ng-show="myForm.name.$error.maxlength">This field should have length at most 5</span> -->
+            </div><br>
+
+            <input type="submit" value="Submit"><br>
+            <span>{{msg}}</span>
+        </form>
+    </div>
+</body>
+</html>
